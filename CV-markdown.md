@@ -4,7 +4,7 @@
 Francois Pigeolet
 
 # Alternant technicien systèmes et réseaux
-(... ou alternant admin sys)
+*(... ou alternant admin sys)*
 
 ## Expériences
 
@@ -12,7 +12,7 @@ Francois Pigeolet
 
 * Gestion et tests du LMS Moodle et de ses modules pédagogiques en ligne 
 * Hybridation de contenus et médiation avec le corps enseignant-chercheur
-* Support technique pour enseignants, installation d'OS et d'applications pédagogiques compatibles
+* **Support technique** pour enseignants, installation d'OS et d'applications pédagogiques compatibles
 
 #### Développement d'outils d'e-learning (formation SYNVA) - 2019 - 2020
 
@@ -41,7 +41,7 @@ Francois Pigeolet
 - Anglais couramment parlé
 - Espagnol couramment parlé
 - Allemand basique
-   Neerlandais basique
+- Neerlandais basique
 
 
 #### Technologies
