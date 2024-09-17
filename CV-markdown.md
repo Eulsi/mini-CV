@@ -8,22 +8,24 @@ Francois Pigeolet
 
 ## Expériences
 
-#### Ingénierie pédagogique - 2020 - 2022
+#### Ingénierie pédagogique **AMU** - 2020 - 2022
 
-* Gestion et tests du LMS Moodle et de ses modules pédagogiques en ligne 
-* Hybridation de contenus et médiation avec le corps enseignant-chercheur
-* **Support technique** pour enseignants, installation d'OS et d'applications pédagogiques compatibles
+* *Gestion et tests du LMS Moodle et de ses modules pédagogiques en ligne*
+* *Hybridation de contenus et médiation avec le corps enseignant-chercheur*
+* **Support technique** *pour enseignants, installation d'OS et d'applications pédagogiques compatibles*
 
-#### Développement d'outils d'e-learning (formation SYNVA) - 2019 - 2020
+#### Développement d'outils d'e-learning (formation **SYNVA**) - 2019 - 2020
 
-* Hybridation de contenus pédagogiques, montages vidéos, applications pédagogico-ludiques et suivi de progression
-* Prototypage de serious game et game design par exploitation de moteurs de jeu sous licence libre ou logiciels propriétaires
+* *Hybridation de contenus pédagogiques, montages vidéos, applications pédagogico-ludiques et suivi de progression*
+* *Prototypage de serious game et game design par exploitation de moteurs de jeu sous licence libre ou logiciels propriétaires*
 
-#### Psychologue en pédopsychiatrie , hopital de jour - 2015 - 2016
+#### Psychologue en pédopsychiatrie , hopital de jour **CPR** - 2015 - 2016
 
-* Adaptation de contenus scolaires pour publics particuliers
-* Accompagnement d'enseignants spécialisés et médiation avec les familles des enfants
-* Soutien des équipes éducatives dans le suivi des patients
+* *Adaptation de contenus scolaires pour publics particuliers*
+* *Accompagnement d'enseignants spécialisés et médiation avec les familles des enfants*
+* *Soutien des équipes éducatives dans le suivi des patients*
+
+#### Animateur/éducateur en France et à l'étranger - 2013 - 2020
 
 ## Projet: 
 
@@ -31,7 +33,7 @@ Francois Pigeolet
 
 ## Formations
 
-* Master 2 Ingénierue des systsèmes numértiques et virtuels pour l'apprentissage (SYNVA)
+* Master 2 Ingénierue des systsèmes numértiques et virtuels pour l'apprentissage (**SYNVA**)
 * Master 2 Psychopathologie et psychologie clinique interculturelle
 
 ## Divers
